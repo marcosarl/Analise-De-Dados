@@ -1,4 +1,4 @@
-# Projetos do Power BI
+# Análise de Dados com Power BI
 ##### Este repositório contém uma coleção de projetos desenvolvidos utilizando o Power BI. Cada projeto está localizado em sua própria pasta e contém os arquivos necessários para visualizar e explorar os dados no Power BI Desktop.
 
 ## Projetos disponíveis
