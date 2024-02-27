@@ -4,8 +4,6 @@
 ## Projetos disponíveis
 #### Marketing
 ##### Neste dashboard foi feita a análise de eficiência das campanhas de marketing e a análise destas campanhas em relação ao clientes da empresa.
-#### Comercial
-##### Dashboard comercial com várias análises, tais como: vendas, vendedores, principais influenciadores.
 
 ### Pré-requisitos
 ##### Power BI Desktop: Certifique-se de ter o Power BI Desktop instalado em seu computador para abrir e explorar os arquivos do projeto.
